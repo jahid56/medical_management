@@ -1,4 +1,4 @@
-## Medical Management System
+## Medical Hospital Management System
 
 ## Configure
 
