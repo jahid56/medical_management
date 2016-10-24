@@ -1,0 +1,18 @@
+.form-signin {
+    margin: 0 auto;
+    max-width: 330px;
+    padding: 15px;
+}
+.footer {
+	margin-top: 5%;
+	width: 100%;
+	background-color: #333;
+	color: #fff;
+}
+.footer p {
+	padding-top: 1%;
+}
+
+.home {
+	padding: 9% 0;
+}
