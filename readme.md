@@ -1,4 +1,4 @@
-## Blood Donor Management System
+## Medical Management System
 
 ## Configure
 
